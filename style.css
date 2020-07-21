@@ -72,6 +72,7 @@ h1
     background-image: url(image/biography-bg.png);
     background-repeat: no-repeat;
     padding-top: 120px;
+    height: 875px;
 }
 .D_btn {
     margin-top: 25px;
