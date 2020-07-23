@@ -84,3 +84,12 @@ h1
 {
     margin-top:100px;
 }
+.worktitle
+{
+    font-weight: 300;
+    text-align:center;
+}
+img.wrokImg {
+    width: 25%;
+    padding: 4%;
+}
