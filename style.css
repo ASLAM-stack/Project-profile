@@ -93,3 +93,9 @@ img.wrokImg {
     width: 25%;
     padding: 4%;
 }
+.work {
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
