@@ -99,3 +99,15 @@ img.wrokImg {
     background-size: cover;
     height: 400px;
 }
+.commentHeader{
+    text-align:center;
+    padding: 50px;
+}
+.foundretalk{
+    text-align:center;
+    padding: 10px;
+    
+}
+span{
+    margin-left: 10px;
+}
